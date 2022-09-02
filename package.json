@@ -11,6 +11,9 @@
   "devDependencies": {
     "cypress": "^9.1.0",
     "cypress-iframe": "^1.0.1",
-    "cypress-xpath": "^2.0.1"
+    "cypress-multi-reporters": "^1.5.0",
+    "cypress-xpath": "^1.6.2",
+    "mocha": "^9.2.0",
+    "mochawesome": "^7.0.1"
   }
 }
