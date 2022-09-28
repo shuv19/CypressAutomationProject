@@ -89,6 +89,6 @@ it('Purchase Two Mobile Phones in angularpractice Page', function()
     cy.log("End to End test case execution is completed.");
     cy.log("Testing Git");
     cy.log("Testing Git 3");
+    cy.log("Testing Git 3");
 } )
 } )
-//
