@@ -81,7 +81,7 @@ it('Purchase Two Mobile Phones in angularpractice Page', function()
     checkoutPage.getTandCcheckbox().click();
     checkoutPage.getPurchaseButton().click();
     checkoutPage.getSuccessMsg().then(function(element)
-    {
+    {  
             const successMsg = element.text();
             expect(successMsg.includes("Success")).to.be.true;
             //This is how you compare if the string contains or not
