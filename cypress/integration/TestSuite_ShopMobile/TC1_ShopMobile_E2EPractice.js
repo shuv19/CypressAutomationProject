@@ -91,4 +91,3 @@ it('Purchase Two Mobile Phones in angularpractice Page', function()
     cy.log("Testing Git 3");
 } )
 } )
-//
